@@ -10,13 +10,6 @@ A simple and clean web application built with Node.js, Express, and MongoDB that
 
 ---
 
-## Screenshot
-
-!https://www.reddit.com/r/androidapps/comments/ug49zp/an_app_that_lets_you_cut_a_part_of_a_screenshot/(./screenshot.png)
-*(To add this image, take a screenshot of your app, name it `screenshot.png`, and place it in your project's root folder.)*
-
----
-
 ## Features
 
 * **Create Short URLs:** Convert long, cumbersome URLs into short, easy-to-share links.
